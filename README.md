@@ -18,7 +18,7 @@ Foi utilizado os conhecimentos aprendidos abaixo:
 <h3>Equipe de Desenvolvedores</h3>
 <a href="https://github.com/Edgard-Maximo" target="_blank"><img src="https://img.shields.io/static/v1?label=Dev.&message=Edgard Maximo&color=228b22&style=flat&logo=<LOGO>"></a>
 <a href="https://github.com/fernandocaruso" target="_blank"><img src="https://img.shields.io/static/v1?label=Dev.&message=Fernando Caruso&color=228b22&style=flat&logo=<LOGO>"></a>  
-<a href="https://github.com/marianac-campos" target="_blank"><img src="https://img.shields.io/static/v1?label=Dev.&message=Mariana Campos&color=228b22&style=for-the-badge&logo=<LOGO>"></a>
+<a href="https://github.com/marianac-campos" target="_blank"><img src="https://img.shields.io/static/v1?label=Dev.&message=Mariana Campos&color=228b22&style=flat&logo=<LOGO>"></a>
 <a href="https://github.com/Rafael702" target="_blank"><img src="https://img.shields.io/static/v1?label=Dev.&message=Rafael Almeida&color=228b22&style=flat&logo=<LOGO>"></a>
 <a href="https://github.com/t4lu" target="_blank"><img src="https://img.shields.io/static/v1?label=Dev.&message=Talita Santos&color=228b22&style=flat&logo=<LOGO>"></a>
 <a href="https://github.com/viniciussti" target="_blank"><img src="https://img.shields.io/static/v1?label=Dev.&message=Vinicius Teixeira&color=228b22&style=flat&logo=<LOGO>"></a>
