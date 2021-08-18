@@ -14,4 +14,4 @@ Foi utilizado os conhecimentos aprendidos abaixo:
 
 ### Equipe de Desenvolvedores
 
-<a href="" target="_blank"><img src="https://img.shields.io/static/v1?label=Dev.&message=Talita Santos&color=007d00<COLOR>&style=plastic<STYLE>&logo=<LOGO>"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/static/v1?label=Dev.&message=Talita Santos&color=007d00<COLOR>&style=flat-square<STYLE>&logo=<LOGO>"></a>
